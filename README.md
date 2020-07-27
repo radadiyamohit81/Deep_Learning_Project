@@ -1,7 +1,7 @@
 # Deep_Learning_Project
-Hello all here this repository will help you for making neural network and i adding some useful project to check your skills.
- 
-*Projects*
+This Repository consists of all deep learning projects which are Face Generation GAN, Bike sharing, Dog Breed Classifier, TV Script Generation.
+
+**Projects**
 
 1) Face Generation using GAN <br>
 2) Bike sharing <br>
